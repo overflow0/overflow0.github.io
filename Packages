@@ -1,0 +1,14 @@
+Package: com.overflow0.DetectionBypass
+Name: Detection Bypass
+Version: 13.37
+Architecture: iphone-os-arm
+Description: Tweak to bypass jailbreak detection
+Maintainer: overflow0
+Author: overflow0
+Section: Tools
+Depends: 
+Filename: debs/jailbreak_bypass.deb
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
