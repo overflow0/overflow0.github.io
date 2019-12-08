@@ -12,3 +12,19 @@ Size:
 MD5sum: 
 SHA1: 
 SHA256: 
+
+Package: co.infinum.jbbad
+Name: JBBad
+Version: 0.1.0
+Architecture: iphone-os-arm
+Description: Disabling the jaibreak detection for Jailbreaking Bad app!
+Maintainer: Adis
+Author: Adis
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/co.infinum.jbbad_0.1.0_iphoneos-arm.deb
+Size: 2846
+Installed-Size: 200
+MD5sum: 85c8a70c35c898967891b2befa86f60d
+SHA1: d4b9a6315bfdc3c3a3fc945cd6d9893e538ad08e
+SHA256: aa2335ab428253727b67c78d762b104f3d1df8379a043f57deceaa7ea1b13995
