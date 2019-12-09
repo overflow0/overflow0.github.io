@@ -21,6 +21,7 @@ Description: Disabling the jaibreak detection for Jailbreaking Bad app!
 Maintainer: Adis
 Author: Adis
 Section: Tweaks
+Depends: mobilesubstrate
 Filename: ./debs/co.infinum.jbbad_0.1.0_iphoneos-arm.deb
 Size: 2846
 Installed-Size: 200
