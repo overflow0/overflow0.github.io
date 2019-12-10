@@ -34,8 +34,12 @@ Package: com.saurik.cycript
 Name: Cycript
 Version: 0.9.594
 Architecture: iphone-os-arm
+Description: Cycript 0.9.594 from saurik
+Maintainer: Jay Freeman (saurik)
 Author: Jay Freeman (saurik)
+Section: Tools
 Filename: ./debs/cycript_0.9.594_iphoneos-arm.deb
 Size: 1225008
+MD5sum: cb2d5d1a2806e5da8d2d80c767b0cd36
 SHA1: 1688b612736ae9e51b30230f4519a60865a1d6ba
 SHA256: d522870cf118466a27854ed0d3ead9fa1f102365016375e204c97d34a9408ca1
