@@ -28,3 +28,14 @@ Installed-Size: 200
 MD5sum: 85c8a70c35c898967891b2befa86f60d
 SHA1: d4b9a6315bfdc3c3a3fc945cd6d9893e538ad08e
 SHA256: aa2335ab428253727b67c78d762b104f3d1df8379a043f57deceaa7ea1b13995
+
+
+Package: co.infinum.jbbad
+Name: Cycript
+Version: 0.9.594
+Architecture: iphone-os-arm
+Author: Jay Freeman (saurik)
+Filename: ./debs/cycript_0.9.594_iphoneos-arm.deb
+Size: 1225008
+SHA1: 1688b612736ae9e51b30230f4519a60865a1d6ba
+SHA256: d522870cf118466a27854ed0d3ead9fa1f102365016375e204c97d34a9408ca1
