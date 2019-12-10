@@ -30,7 +30,7 @@ SHA1: d4b9a6315bfdc3c3a3fc945cd6d9893e538ad08e
 SHA256: aa2335ab428253727b67c78d762b104f3d1df8379a043f57deceaa7ea1b13995
 
 
-Package: co.infinum.jbbad
+Package: com.saurik.cycript
 Name: Cycript
 Version: 0.9.594
 Architecture: iphone-os-arm
